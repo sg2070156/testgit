@@ -1,0 +1,13 @@
+# Current Weather in New York City
+
+**Temperature:** 14.0°F (-10.0°C)  
+**Conditions:** Clear  
+**Humidity:** 51%  
+**Pressure:** 30.03 inHg  
+**Visibility:** 10.0 miles
+
+**Observation Details:**
+- **Station:** KNYC
+- **Last Updated:** January 29, 2026, 12:51 AM (local time) - about 1 hour 15 minutes ago
+
+It's quite cold in New York City right now with clear skies!
