@@ -1,0 +1,16 @@
+Current Weather - New York City
+================================
+
+Location: 40.7128, -74.0060
+Station: KNYC
+Observed: January 30, 2026 at 4:51 AM (local time) - 33 minutes ago
+
+Temperature: 10.0°F (-12.2°C)
+Feels Like: 1.7°F (-16.8°C) (wind chill)
+Conditions: Clear
+Humidity: 48%
+Pressure: 30.16 inHg
+Visibility: 10.0 miles
+
+Weather Summary:
+It's quite cold in New York City with clear skies. The wind chill makes it feel even colder at just under 2°F. Bundle up if heading outside!
