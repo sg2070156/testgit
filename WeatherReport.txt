@@ -1,0 +1,15 @@
+# Current Weather Report - New York City
+
+**Location:** 40.7128, -74.006
+**Station:** KNYC
+**Observed:** 1/30/2026, 5:51 AM (local time) - 36m ago
+
+**Temperature:** 10.0°F (-12.2°C)
+**Feels Like:** 1.7°F (-16.8°C) (wind chill)
+**Conditions:** Clear
+**Humidity:** 48%
+**Pressure:** 30.15 inHg
+**Visibility:** 10.0 miles
+
+---
+Report generated on: January 30, 2026
